@@ -17,6 +17,8 @@ body {
     padding: 0;
     margin: 0;
     overflow: hidden;
+    background: url(../images/bg.jpg) 50% 50% no-repeat;
+    background-size: cover;
 }
 
 .marquee {
@@ -99,17 +101,3 @@ img {
 .menu-btn {
     line-height: 60px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
